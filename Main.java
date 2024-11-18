@@ -72,7 +72,7 @@ public class Main {
                 e_1.divide(ten_1);
             }
 
-            // установка знвнаков после запятой
+            // установка знаков после запятой
             NumberFormat formatter = NumberFormat.getNumberInstance();
             formatter.setMaximumFractionDigits(3);
 
